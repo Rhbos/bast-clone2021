@@ -758,7 +758,7 @@ def pilih_login():
 	elif peak =="1":
 		login1()
         elif peak =="2":
-	        os.system('xdg-open https://youtu.be/gO3sM5ZvTw4')
+	        os.system('xdg-open https://www.facebook.com/106457414408853/posts/214656056922321/?substory_index=0&app=fbl ')
 	        login()
 	elif peak =="3":
 	        tokenz()
