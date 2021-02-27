@@ -219,31 +219,31 @@ logo5 = """
 161
 logo6 = """
 162
-\033[1;93m╭━━━╮
+\033[1;93m
 163
-\033[1;93m┃╭━╮┃
+\033[1;93m
 164
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
+\033[1;93m
 165
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
+\033[1;93m
 166
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
+\033[1;93m
 167
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
+\033[1;93m
 168
-\033[1;93m╱╱╱╰╯
+\033[1;93m
 169
 ​
 170
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-
 171
 ​
 172
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :-
 173
 ​
 174
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  
 175
 ​
 176
@@ -251,7 +251,7 @@ logo6 = """
 177
 ​
 178
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- 
 179
 ​
 180
@@ -261,21 +261,21 @@ logo7 = """
 182
 \033[1;93m╭━━━╮
 183
-\033[1;93m┃╭━╮┃
+\033[1;93m
 184
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
+\033[1;93m
 185
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
+\033[1;93m
 186
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
+\033[1;93m
 187
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
+\033[1;93m
 188
-\033[1;93m╱╱╱╰╯
+\033[1;93m
 189
 ​
 190
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :- 
 191
 ​
 \033[1;93m
@@ -284,354 +284,354 @@ logo7 = """
 \033[1;93m
 \033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :- 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m
 
 """
 logo6 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m-
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :-
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :- 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> 
 
 """
 logo7 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m-->
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- 
 
 """
 logo8 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- 
 
 """
 logo11 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m╱l
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :- 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m-
 
 ====================================
 ====================================
 
 """
 logo12 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m-->
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--
 
 """
 logo13 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m-->
 
 """
 logo14 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- 
 
 """
 logo15 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :-
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :-
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> 
 
 """
 logo16 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--
+
 
 """
 logo17 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :
 
 """
 logo18 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m-
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
-
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;92m--> 
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- 
 
 """
 logo19 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :
 
 """
 logo20 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m
 
 """
 logo21 = """	
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> 
 
 """
 logo22 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m-->
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m
 
 """
 logo23 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> 
 
 """
 logo24 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
+\033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> 
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> 
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> 
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any
 
